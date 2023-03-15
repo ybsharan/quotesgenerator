@@ -59,6 +59,10 @@ let quotes = [
     quotes: `"Experience is not what happens to you; it is what you do with what happens to you."`,
     person: `Aldous Huxley`,
   },
+  {
+    quotes: `"When something is important enough, you do it even if the odds are not in your favor."`,
+    person: `Elon Musk`,
+  },
 ];
 
 btn.addEventListener('click', function () {
