@@ -63,6 +63,10 @@ let quotes = [
     quotes: `"When something is important enough, you do it even if the odds are not in your favor."`,
     person: `Elon Musk`,
   },
+  {
+    quotes: `"Continuous improvement is better than delayed perfection."`,
+    person: `Mark Twain`,
+  },
 ];
 
 btn.addEventListener('click', function () {
